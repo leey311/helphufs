@@ -1,0 +1,2 @@
+1. item과 ingredient의 다대다 관계
+-> 중간 관계인 itemIngredient를 만들어 해결

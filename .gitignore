@@ -39,7 +39,7 @@ out/
 
 .idea
 gradle
-/src/java/resources/*
+src/main/resources
 .gitattributes
 build.gradle
 gradlew
